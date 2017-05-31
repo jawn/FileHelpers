@@ -3,11 +3,11 @@
        FileHelpers.dll
        FileHelpers.xml (for docs)
 
-* For the Excel DataLink feature that uses the NPOI library (Native implementation, RECOMENDED):
+* For the Excel DataLink feature that uses the NPOI library (Native implementation, RECOMMENDED):
 
        FileHelpers.ExcelNPOIStorage.dll
 
-* For the Excel DataLink feature that uses Interop (Excel must be installed, NOT RECOMENDED, Legacy):
+* For the Excel DataLink feature that uses Interop (Excel must be installed, NOT RECOMMENDED, Legacy):
 
        FileHelpers.ExcelStorage.dll
 
